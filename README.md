@@ -1,6 +1,3 @@
-Sure, here is a comprehensive README file for your lottery Solidity project:
-
-```markdown
 # Lottery Smart Contract
 
 This project is a decentralized lottery application built using Solidity, Web3.js, and React. The smart contract is deployed on the Ethereum blockchain and allows users to enter a lottery by sending Ether. A winner is randomly selected, and the entire balance of the contract is transferred to the winner.
